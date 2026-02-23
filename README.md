@@ -1,6 +1,10 @@
-<img width="811" height="870" alt="Image" src="https://github.com/user-attachments/assets/e21071c7-ec77-4f27-b7af-e4d77e464c07" />
-<img width="1325" height="927" alt="Image" src="https://github.com/user-attachments/assets/f41b1c30-7bf0-428c-8556-d8a97e76efea" />
-<img width="1235" height="929" alt="Image" src="https://github.com/user-attachments/assets/cfaeb696-c73e-44ae-a63e-53ca8c594cd0" />
+<img width="811" height="870" alt="Image" src="https://github.com/user-attachments/assets/664f8300-b7da-4a26-bd58-d04bc2ea9201" />
+
+<img width="1325" height="927" alt="Image" src="https://github.com/user-attachments/assets/2c7bd423-40b9-4a1b-ae48-3df03414e3df" />
+
+<img width="1473" height="194" alt="Image" src="https://github.com/user-attachments/assets/ea41c80e-6447-4941-aabd-db11afcc1dc0" />
+
+<img width="1473" height="194" alt="Image" src="https://github.com/user-attachments/assets/93b116d9-4302-4dc3-a871-838d871f1abe" />
 # OptiProcure: AI-Powered B2B Procurement System
 
 
