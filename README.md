@@ -1,4 +1,6 @@
-
+<img width="1235" height="929" alt="Image" src="https://github.com/user-attachments/assets/9a754579-e142-4ad7-b075-7015ea78a157" />
+<img width="1325" height="927" alt="Image" src="https://github.com/user-attachments/assets/958f0c73-1c1e-4620-8423-c8471cd39f38" />
+<img width="811" height="870" alt="Image" src="https://github.com/user-attachments/assets/1eca381f-4c03-4c8a-815a-9fda5e819f9a" />
 # OptiProcure: AI-Powered B2B Procurement System
 
 
